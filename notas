@@ -46,4 +46,5 @@ body {
 }
 
 html borde
+let x = Math.floor(1.6);
 
