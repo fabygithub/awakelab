@@ -6,3 +6,8 @@ from vendedor
 SELECT max(salario) 
 from vendedor
 
+SELECT min(salario),
+SUM(salario)
+from vendedor
+
+mysql sumar dos columnas
