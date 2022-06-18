@@ -1,0 +1,8 @@
+class Main
+{
+    static
+    {
+        System.out.println("Java Program without main()");
+        System.exit(0);
+    }
+}
