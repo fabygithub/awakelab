@@ -1,1 +1,44 @@
+spring initializer
+maven project
+java
+spring boot 2.2.4
+group mx.com.gm
+artifact HolaSpring
+descripcion Hola Mundo con Spring
+nombre packete mx.com.gm
+packaging jar
+java 17
+agregar dependencias :
+spring boot devtools
+lombok
+spring web
+generate
+file
+open project
+
+
+spring mvc netbeans
+file
+new project
+web application
+nombre proyecto :
+PRUEBASpringMVC
+To Add GlassFish Server as a Server in NetBeans IDE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
