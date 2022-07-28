@@ -74,7 +74,22 @@ C:\Program Files\Apache Software Foundation\Tomcat 10.0
 
   <user username="robot" password="<root>" roles="manager-script"/>
   
+password
+admin
+root
 
+root
+root
+
+Tomcat is opening Internet Explorer when it is deployed. How can I change this?
+
+404
+hay que cambiar la propiedades del proyecto
+
+
+1. The URL is not handled by any Java servlets
+
+https://www.youtube.com/watch?v=ExNkImtpPx4&ab_channel=mb-techs
 
 
 
