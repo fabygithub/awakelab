@@ -57,6 +57,21 @@ spring framework is not in the classpath
 spring web mvc netbeans
 
 
+boton derecho  en el proyecto
+apretar build
+
+boton derecho undeploy and deploy
+glassfish could not be started with jdk 18
+
+
+buscar la carpeta de instalacion de tomcat
+generalmente 
+
+en tools
+agregar el servidor
+C:\Program Files\Apache Software Foundation\Tomcat 10.0
+
+
 
 
 
