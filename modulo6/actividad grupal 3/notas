@@ -72,7 +72,8 @@ agregar el servidor
 C:\Program Files\Apache Software Foundation\Tomcat 10.0
 
 
-
+  <user username="robot" password="<root>" roles="manager-script"/>
+  
 
 
 
