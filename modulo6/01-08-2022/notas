@@ -1,1 +1,37 @@
 notas
+C:\Program Files\Apache Software Foundation\Tomcat 10.0
+
+Deployment error: Access to Tomcat server has not been authorized. 
+Set the correct username and password with the "manager-script" 
+role in the Tomcat customizer in the Server Manager.
+
+Deployment error: Starting of Tomcat failed, the server port 8080 is already in use.
+al ejecutar tomcat como administrador
+hay que detener el xammp el tomcat
+
+C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf
+
+ <role rolename="manager-script"/>
+ <user username="user" password="user" roles="manager-script"/>
+ 
+ The module has not been deployed.
+ apache The module has not been deployed.
+ 
+ use system proxy correct
+ basically just give write permission to glassfish folder
+ 
+ netbeans error
+ <nbdeploy clientUrlPart="${client.urlPart}" debugmode="false" forceRedeploy="${forceRedeploy}"/>
+   
+   
+
+
+
+
+
+
+
+
+
+
+
