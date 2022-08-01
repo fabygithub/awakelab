@@ -23,7 +23,49 @@ C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf
  netbeans error
  <nbdeploy clientUrlPart="${client.urlPart}" debugmode="false" forceRedeploy="${forceRedeploy}"/>
    
-   
+ i have solve the problem. its a language options problem. chance your language settings to english. that's all.
+ 
+ C:\Program Files\NetBeans-14\netbeans\etc
+ 
+ Append these options:
+ -J-Duser.language=<language> -J-Duser.region=<region>
+ 
+ 
+ Failed to save 'netbeans.conf': Insufficient permissions. Select 'Retry as Admin' to retry as administrator.
+ 
+ 9
+
+Close NetBeans, start notepad or another text editor as Administrator 
+(right click on the application and choose "Run as administrator" 
+and then open 'netbeans.conf' with it.
+
+ejecutar visual studio code como administrador
+NetBeans No Arranca Solución
+
+C:\Users\USUARIO
+ver elementos ocultos
+vista
+elementos ocultos
+
+C:\Users\USUARIO\AppData\Roaming
+borrar netbeans
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
 
 
 
