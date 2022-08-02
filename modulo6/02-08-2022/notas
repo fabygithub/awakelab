@@ -1,2 +1,37 @@
 el error del netbeans estaba en  el archivo conf
 No servers are registered in the IDE. To register a server, click the "Add..." button.
+Deployment error: Access to Tomcat server has not been authorized. Set the correct username 
+and password with the "manager-script" role in the Tomcat customizer in the Server Manager.
+
+--locale en
+f5  actualizar
+
+Deployment error: Could not start GlassFish Server: 
+HTTP or HTTPS listener port is occupied while server is not running
+
+netstat -aon | find ":8080" | find "LISTENING"
+
+How do I kill the process currently using a port on localhost in Windows? [closed]
+
+taskkill /PID 7188 /F
+C:\Users\USUARIO>taskkill /PID 7188 /F
+Correcto: se terminó el proceso con PID 7188.
+
+error GlassFish Server, deploy, null, false
+
+Is a Personal Firewall Enabled?
+Issues might result when personal firewalls are enabled. 
+Disable your personal firewall and see if the server access problem still exists.
+
+glassfish select another platform
+
+
+
+
+
+
+
+
+
+
+
